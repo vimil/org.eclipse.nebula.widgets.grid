@@ -1,0 +1,362 @@
+Manifest-Version: 1.0
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Built-By: genie.technology.nebula
+Bundle-SymbolicName: org.eclipse.nebula.widgets.grid
+Require-Bundle: org.eclipse.swt,org.eclipse.jface;resolution:=optional
+Export-Package: org.eclipse.nebula.jface.gridviewer,org.eclipse.nebula
+ .jface.gridviewer.internal;x-internal:=true,org.eclipse.nebula.widget
+ s.grid,org.eclipse.nebula.widgets.grid.internal;x-internal:=true
+Bundle-Version: 1.0.0.201402061713
+Build-Jdk: 1.6.0_45
+Bundle-Vendor: Eclipse.org
+Bundle-Name: Nebula Grid
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-ManifestVersion: 2
+
+Name: META-INF/maven/org.eclipse.nebula/org.eclipse.nebula.widgets.gri
+ d/pom.xml
+SHA1-Digest: jhuOWbhhuIPuTgo3lOT0PIJlGWc=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderEditor$4.class
+SHA1-Digest: iYSwFNl+7EEcYdAfX8pC0hWbf94=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultColumnGroupHeade
+ rRenderer.class
+SHA1-Digest: Xj12A5mAlfcsx2G2XJXpT1XDzpQ=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$2.class
+SHA1-Digest: 9u5HkeXMRD2/uv9iGzkYFGfd7lE=
+
+Name: org/eclipse/nebula/widgets/grid/internal/ScrollBarProxyAdapter.c
+ lass
+SHA1-Digest: RWFMkOmeV++wTVUY3lyZ/3zuQBM=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultTopLeftRenderer.
+ class
+SHA1-Digest: q3Yr5Leioq97gzSkYkKckWV6Eds=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$6.class
+SHA1-Digest: Bp3D3QNF1Je6cAhc8nzG1cuQAUQ=
+
+Name: org/eclipse/nebula/widgets/grid/RowColumnBigDataVisualizer.class
+SHA1-Digest: agHFsZadwxKH3eRsA4qTNsGAs2I=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultCellRenderer$1.c
+ lass
+SHA1-Digest: 84kvFPLnNSmXTReynmic6LbNcoQ=
+
+Name: org/eclipse/nebula/widgets/grid/GridEditor$2.class
+SHA1-Digest: 7276PfUb7chQT4ON2u1zJXTZHho=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridViewerRow.class
+SHA1-Digest: r/ia1TcC60bIUc4X6HbXWsgZiQg=
+
+Name: org/eclipse/nebula/widgets/grid/GridFooterRenderer.class
+SHA1-Digest: S2eWlv0P4l26yXnaaV3JxhmRuaQ=
+
+Name: org/eclipse/nebula/widgets/grid/GridEditor$6.class
+SHA1-Digest: GWFQX354MWXiVSrbEZhaljINFug=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$13.class
+SHA1-Digest: nNV4D5whXp4AIovo6V8Gm8DdtHM=
+
+Name: org/eclipse/nebula/widgets/grid/GridCellRenderer.class
+SHA1-Digest: dw2bf0a5FMiEfQQxUWsHekCuFvU=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$17.class
+SHA1-Digest: 0tel3nkIEjiiAqC05AxZEQtNBnQ=
+
+Name: org/eclipse/nebula/widgets/grid/internal/ToggleRenderer.class
+SHA1-Digest: iZ89vXN3Q/zK9pvoQ8J/IQiTyi0=
+
+Name: org/eclipse/nebula/widgets/grid/IRenderer.class
+SHA1-Digest: mADDa+KB7FPXqc7M0UmRaD7D2U8=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultFocusRenderer.cl
+ ass
+SHA1-Digest: 4dcuX6IgrZfByWdA30MBrotWujo=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridTableViewer.class
+SHA1-Digest: peoF24wwOKCkixkj24Y6lw4bon8=
+
+Name: org/eclipse/nebula/jface/gridviewer/internal/CellSelection.class
+SHA1-Digest: 2fWgXxOzyMXMOqHJiiSI9f4nZhg=
+
+Name: org/eclipse/nebula/widgets/grid/GridVisibleRangeSupport$VisibleR
+ angeChangedListener.class
+SHA1-Digest: V3aoxi4G5PI8qMDiwgWm23v0/E4=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridViewerColumn$1.class
+SHA1-Digest: NvahHV7UpJADBo18rcDNTxRwdQY=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultColumnHeaderRend
+ erer$1.class
+SHA1-Digest: qhBaWg/+UTaeYB/0O+CcWTPaPJw=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultColumnFooterRend
+ erer.class
+SHA1-Digest: bTAovcrmHtX+HPSCbFMSInSc/cE=
+
+Name: org/eclipse/nebula/widgets/grid/GridVisibleRangeSupport$RangeCha
+ ngedEvent.class
+SHA1-Digest: bJ5XBS+kxNo1IPPuidMZDUQvRP0=
+
+Name: org/eclipse/nebula/widgets/grid/GridColumnGroup.class
+SHA1-Digest: MfPmFE10BdJIBRH4TRlnsKWzfXY=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridViewerEditor.class
+SHA1-Digest: j8vhQ7KM0Jcw1Pa1AvGAXiryYE0=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultEmptyColumnHeade
+ rRenderer.class
+SHA1-Digest: NR12H2gnWLDbZsH+kpkrH8X4v48=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderEditor$1.class
+SHA1-Digest: Ej+2BeZp/drnTohDCFkgaL/gzZI=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderEditor$5.class
+SHA1-Digest: qYOnDMqTdo0o9Ow9KUNkN0DmQG8=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultCellRenderer.cla
+ ss
+SHA1-Digest: M/SceOBhXVxItLsThjW4BXDBHdU=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$3.class
+SHA1-Digest: vk1YVHQKk46ycGs+cXXV47jlqRE=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$7.class
+SHA1-Digest: 20qVxsmq2VkDKmK18okzq7uAF3o=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultColumnGroupHeade
+ rRenderer$1.class
+SHA1-Digest: Lb3kFQZT7ToHxauv+WUL3yaSGws=
+
+Name: org/eclipse/nebula/jface/gridviewer/CheckEditingSupport.class
+SHA1-Digest: KgJViHwRAXjs+TVuF/UQ0ojEyh4=
+
+Name: org/eclipse/nebula/widgets/grid/GridEditor$3.class
+SHA1-Digest: VU4VeD/fP1BW0jSi0Xrupwikmg4=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$10.class
+SHA1-Digest: 6rm1GsLZ5wOFSRdn2OOI2i48Uhg=
+
+Name: org/eclipse/nebula/widgets/grid/internal/NullScrollBarProxy.clas
+ s
+SHA1-Digest: RTT/Z5q+4FCeXndfrGp/qGAiEEA=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$RowRange.class
+SHA1-Digest: HacdYCmMoQJtlo0B4pqKFt/pMbY=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$14.class
+SHA1-Digest: bmoYe4wzoW7HStSnRARaKnujvu0=
+
+Name: org/eclipse/nebula/widgets/grid/internal/ExpandToggleRenderer.cl
+ ass
+SHA1-Digest: BZCTDeHUGdzxThi7oN+VvmflLP8=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultEmptyRowHeaderRe
+ nderer.class
+SHA1-Digest: ff+XHpaB/4ovty59SLuKt4gKmo4=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$18.class
+SHA1-Digest: NfI0i9yIjR/hWJ/kz5DCy/kfbfM=
+
+Name: META-INF/maven/org.eclipse.nebula/org.eclipse.nebula.widgets.gri
+ d/pom.properties
+SHA1-Digest: pS28OguVORZfBERURH+RS4qRUN0=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridViewerColumn.class
+SHA1-Digest: U9vyXO2jH5XdWuTCA6nqfVW8cm8=
+
+Name: org/eclipse/nebula/widgets/grid/GridItem.class
+SHA1-Digest: tW0tuMLA619y3UA55+Oi+XXZfNQ=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderEditor.class
+SHA1-Digest: V/H1/NKGLlBMpbSMPKkBqqjtZjQ=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridViewerColumn$2.class
+SHA1-Digest: 3y+aovb0OrJSGTR5lcuGj4+gF0g=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultBottomLeftRender
+ er.class
+SHA1-Digest: 72m+A3OCJGqvtMjcQuV6qEU+9Ag=
+
+Name: org/eclipse/nebula/widgets/grid/GridDragSourceEffect.class
+SHA1-Digest: nI1xtBIuXbB1aFNs9QkhshOalx4=
+
+Name: org/eclipse/nebula/widgets/grid/Grid.class
+SHA1-Digest: FlJZ5a3vdRkQF9OcBGpjH6PGFtQ=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridTreeViewer$1.class
+SHA1-Digest: 7VPSx1hCm767hdktpx7m/IxAo40=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridColumnLayout.class
+SHA1-Digest: CVIVqf3w05S4CtRNxivp1Sab9Jk=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderEditor$2.class
+SHA1-Digest: zVlNhWk6I+JIdqU0Ye/0mzAxHR4=
+
+Name: org/eclipse/nebula/widgets/grid/IInternalWidget.class
+SHA1-Digest: 8C8GWYeZTQiUczD75D5epxYUALY=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderEditor$6.class
+SHA1-Digest: EjGqCI2ue79vCUttR9awJZgRVGU=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$4.class
+SHA1-Digest: Dq1RNAWmd4ZKGzzxCnZnAu68d9Y=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderRenderer.class
+SHA1-Digest: 35kyC56Qk44/sIEFjEyHMA7k0e0=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$8.class
+SHA1-Digest: SQ/6YavoPukQSe9AR0qr+9SnU/Q=
+
+Name: org/eclipse/nebula/widgets/grid/internal/SortArrowRenderer.class
+SHA1-Digest: une/APrUOI4CDlGpgDCuJqJPg4g=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultRowHeaderRendere
+ r.class
+SHA1-Digest: BuV1xuhL1J1T7U9HU/Ws9cI9a8U=
+
+Name: org/eclipse/nebula/widgets/grid/GridEditor$4.class
+SHA1-Digest: TSRuhiBRq0S2H7ma3ZLkZLmYFp8=
+
+Name: org/eclipse/nebula/widgets/grid/AbstractInternalWidget.class
+SHA1-Digest: 8I12RHINBa828UgGCkkBICzOkV8=
+
+Name: org/eclipse/nebula/widgets/grid/GridVisibleRangeSupport.class
+SHA1-Digest: MqkpES0xkEi01d9VacjZTmanxmo=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$11.class
+SHA1-Digest: juWgylztF/cuDuNKiHsTfctVtBc=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$15.class
+SHA1-Digest: cBeiFLbTFDHFQpf2xkP/fysCx34=
+
+Name: org/eclipse/nebula/widgets/grid/internal/GridToolTip.class
+SHA1-Digest: 9PlscZQueeQgAEqh0k0i2JPV5HI=
+
+Name: org/eclipse/nebula/widgets/grid/GridEditor$1$1.class
+SHA1-Digest: k4RfJGCknPRVa3WWnz0saLGwWr4=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultRowHeaderRendere
+ r$1.class
+SHA1-Digest: ABr39TM6YkwpmWZTlDxzrWMh4PM=
+
+Name: org/eclipse/nebula/widgets/grid/internal/TextUtils.class
+SHA1-Digest: nbiU9bkzepqMbGBL9jAZt5kXpsI=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultColumnHeaderRend
+ erer.class
+SHA1-Digest: uBqdajW5O9DTWjLbItsG8l6xsp4=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$GridVisibleRange.class
+SHA1-Digest: a882ZVetC09Ts6Le+51CHcEi1/E=
+
+Name: org/eclipse/nebula/widgets/grid/internal/GridToolTip$1.class
+SHA1-Digest: ON0RsrzV0PvghgnuQ9LtprnnM8I=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridTreeViewer.class
+SHA1-Digest: xeuYVrFCAEnuVQhHxJ5jn4ulgeQ=
+
+Name: org/eclipse/nebula/widgets/grid/internal/IScrollBarProxy.class
+SHA1-Digest: gdtA3xO8ks1xUz2e9ahwyaC46dc=
+
+Name: org/eclipse/nebula/widgets/grid/internal/CheckBoxRenderer.class
+SHA1-Digest: nohsAZYqc7dhcA6zPgoSHihgZpM=
+
+Name: org/eclipse/nebula/widgets/grid/GridCellSpanManager.class
+SHA1-Digest: W8XLjIgg7/5q3nbpGH5fyE7bHWg=
+
+Name: org/eclipse/nebula/widgets/grid/internal/GroupToggleRenderer.cla
+ ss
+SHA1-Digest: wvUh52aK3XKFvhy+R362E0MkDYA=
+
+Name: org/eclipse/nebula/widgets/grid/ColumnRowBigDataVisualizer.class
+SHA1-Digest: poE3rbhkQ/809Lz7AQTkDYTNQw0=
+
+Name: org/eclipse/nebula/widgets/grid/GridColumn$1.class
+SHA1-Digest: DAB0E5jiU9k8u676GRJUcJWwPbc=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridColumnLabelProvider.clas
+ s
+SHA1-Digest: BaaRUnsr5NF8/LjI5YypFbaFL8Y=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderEditor$3.class
+SHA1-Digest: 5QGJYRwSw6vn5CVqfXSmS0HVfYc=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$1.class
+SHA1-Digest: 6fCpKSyutPimkt1JEJaLrT2tT58=
+
+Name: org/eclipse/nebula/widgets/grid/GridEditor.class
+SHA1-Digest: +Qu7wAwHFTZN5Tl5kymX9w+CdZw=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$5.class
+SHA1-Digest: J7WXY/BvcX+OeRUYNZsCZWK5+iA=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultInsertMarkRender
+ er.class
+SHA1-Digest: FHAV5kBSMRgZyNmWA+B26Vbawy0=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultEmptyColumnFoote
+ rRenderer.class
+SHA1-Digest: RD6xLHvdhptVTwsCUrK216Q7S/c=
+
+Name: org/eclipse/nebula/widgets/grid/GridHeaderEditor$1$1.class
+SHA1-Digest: HusM1c9Q8Saeh5u2dK7ZqnDb0yg=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$9.class
+SHA1-Digest: NGRzZM6VsJ90Q/szWZZBb4qffhA=
+
+Name: org/eclipse/nebula/widgets/grid/GridEditor$1.class
+SHA1-Digest: s9HHc7j0DOTCWIYdJwedqUMR5PA=
+
+Name: org/eclipse/nebula/widgets/grid/GridEditor$5.class
+SHA1-Digest: R94z8M7C31JNFXlcTKLtkTRRV5w=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$12.class
+SHA1-Digest: lGfxA5/+ZrtL/XY4YUSCR+IKbm4=
+
+Name: org/eclipse/nebula/widgets/grid/DataVisualizer.class
+SHA1-Digest: 9DPA+H7Efg1mLAar/NiYyTyHfks=
+
+Name: org/eclipse/nebula/jface/gridviewer/internal/SelectionWithFocusR
+ ow.class
+SHA1-Digest: cHokJOQvLXeF8xZB0oenCcMmULU=
+
+Name: org/eclipse/nebula/widgets/grid/Grid$16.class
+SHA1-Digest: C1NZYmwrYhAacKSffkHbTdHOi0o=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultEmptyCellRendere
+ r.class
+SHA1-Digest: B2Xi2Fc3c0+iy41zOGyXvsSPlxk=
+
+Name: org/eclipse/nebula/widgets/grid/AdaptedDataVisualizer.class
+SHA1-Digest: BhtlQwS+pjHNO1qgshJdj3ZKI1c=
+
+Name: org/eclipse/nebula/widgets/grid/GridVisibleRangeSupport$1.class
+SHA1-Digest: bUeeSVBrwwntY55sp9d8CEjZJek=
+
+Name: org/eclipse/nebula/widgets/grid/GridDropTargetEffect.class
+SHA1-Digest: mc05Ayt6RicvC0KOt2myoS03ayU=
+
+Name: org/eclipse/nebula/widgets/grid/internal/GridToolTip$2.class
+SHA1-Digest: xO/DkC3eFX6zLY/7hP2OdlvD5/o=
+
+Name: org/eclipse/nebula/widgets/grid/GridColumn.class
+SHA1-Digest: BGLCwWr3E8RxxtdKFK2j/HFJGmE=
+
+Name: org/eclipse/nebula/widgets/grid/internal/DefaultDropPointRendere
+ r.class
+SHA1-Digest: UAcH3Y3fHa6nmJO9wO2wG8lr6kc=
+
+Name: org/eclipse/nebula/widgets/grid/internal/BranchRenderer.class
+SHA1-Digest: 1bM6rh6OupmUzJ0y5BF/Rd1Pn1k=
+
+Name: org/eclipse/nebula/widgets/grid/AbstractRenderer.class
+SHA1-Digest: uFvFrgPJAT1BFcKn4vhLptfkQAc=
+
+Name: org/eclipse/nebula/jface/gridviewer/GridTableViewer$1.class
+SHA1-Digest: eKW5Qhi9Q26M8g8US/GGDHKv3cc=
+
